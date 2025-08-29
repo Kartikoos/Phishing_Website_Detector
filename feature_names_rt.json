@@ -1,0 +1,22 @@
+[
+  "NumDots",
+  "NumDash",
+  "UrlLength",
+  "AtSymbol",
+  "NumUnderscore",
+  "NumPercent",
+  "NumQueryComponents",
+  "NumAmpersand",
+  "NumHash",
+  "NumNumericChars",
+  "NoHttps",
+  "IpAddress",
+  "HostnameLength",
+  "PathLength",
+  "QueryLength",
+  "DoubleSlashInPath",
+  "IframeOrFrame",
+  "PopUpWindow",
+  "RightClickDisabled",
+  "ExtFormAction"
+]
